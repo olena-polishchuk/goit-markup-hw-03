@@ -1,4 +1,4 @@
-/* ===== Global styles ===== */
+/* Global styles */
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -35,7 +35,7 @@ address {
   font-style: normal;
 }
 
-/* ===== Buttons ===== */
+/* Buttons */
 
 .btn {
   border: none;
@@ -56,7 +56,7 @@ address {
   background-color: #404bbf;
 }
 
-/* ===== Common styles ===== */
+/* Common styles */
 
 .container {
   width: 100%;
@@ -94,7 +94,7 @@ address {
   clip-path: inset(100%);
 }
 
-/* ===== Logo ===== */
+/*  Logo */
 
 .logo,
 .accent-header,
