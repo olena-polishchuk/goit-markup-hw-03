@@ -1,7 +1,11 @@
 .footer {
   background-color: #2e2f42;
   padding: 100px 0px;
-  display: flex;
+}
+
+.logo-footer {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .footer-text {
@@ -9,10 +13,6 @@
   color: #f4f4fd;
 }
 
-.logo {
-  margin-bottom: 16px;
-  color: #4d5ae5;
-}
 .accent-footer {
   color: #f4f4fd;
 }

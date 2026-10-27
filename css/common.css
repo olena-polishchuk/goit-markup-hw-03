@@ -100,20 +100,17 @@ address {
 /*  Logo */
 
 .logo,
+.logo-footer,
 .accent-header,
 .accent-footer {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.33333;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
-.logo {
+.logo,
+.logo-footer {
   color: #4d5ae5;
-}
-
-.accent-header {
-  color: #2e2f42;
 }
