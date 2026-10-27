@@ -19,7 +19,7 @@
 
 .main-nav {
   margin-left: 76px;
-  margin-right: 340px;
+  margin-right: auto;
 }
 
 .main-nav-list {
@@ -48,6 +48,7 @@
 .contacts-link {
   display: block;
   padding: 24px 0;
+  white-space: nowrap;
 }
 
 .contacts-link:hover,
