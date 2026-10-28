@@ -6,14 +6,14 @@
   gap: 24px;
 }
 
+.team-card-content {
+  padding: 32px 16px;
+}
+
 .team-item {
   width: calc((100% - 72px) / 4);
   background: #fff;
-  padding-bottom: 24px;
-}
-
-.team-img {
-  margin-bottom: 32px;
+  border-radius: 0 0 4px 4px;
 }
 
 .team-subtitle {
